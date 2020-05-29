@@ -8,3 +8,5 @@ body {margin: 0; padding: 0;}
 .big { font-size: 96pt; }
 .medium { font-size: 24pt; }
 .small { font-size: 10pt; }
+a {color:#000000;}
+.small a {color:#444444;}
